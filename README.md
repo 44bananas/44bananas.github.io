@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Terms of Service</title>
 </head>
 <body>
 
